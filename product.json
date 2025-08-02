@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": 1754149291047,
+    "name": "laptop",
+    "category": "Electronic",
+    "price": 1200,
+    "instock": true
+  }
+]
